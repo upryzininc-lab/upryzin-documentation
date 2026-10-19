@@ -1,0 +1,71 @@
+# home-directory noise — never track
+.bash_history
+.bashrc
+.profile
+.gitconfig
+.ssh/
+.config/
+.cache/
+.cargo/
+.npm/
+.local/
+.venv/
+venv/
+.python_history
+.wget-hsts
+
+# secrets — never track, ever
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*_tokens.db
+adc.json
+.boto
+qb_env.sh
+ghp_*
+github_pat_*
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# node
+node_modules/
+
+# vendored SDKs
+google-cloud-sdk/
+
+# databases & ledgers
+*.db
+*.sqlite
+ledger.db
+upryzin_ledger.json
+ledger_transactions.json
+
+# logs
+*.log
+
+# PII / exports
+*_export.csv
+identity_*.csv
+hr_roster.csv
+it_directory.csv
+oauth_risk_matrix.csv
+sharing_export.csv
+
+# bulk archives
+*.tar.gz
+*.tgz
+ngrok
+ngrok-*
+up360_compliance_evidence_*.zip
+
+# backups & stray files
+*.bak
+*.backup.*
+*.before_*
+*cat
+tatus
