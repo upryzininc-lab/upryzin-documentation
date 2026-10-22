@@ -1,11 +1,24 @@
-# UPRYZIN PRODUCTIONS
+# John Marshall Curry
+**Founder & CEO, UPRYZIN PRODUCTIONS**
 
-Building **UP360** — a creator operations and financial telemetry platform focused on[span_2](start_span)[span_2](end_span):
+Building **UP360™** (Upryzin Productions 360°) — an all-around operational platform unifying creator operations, financial telemetry, compliance oversight, identity integrity, and governance reporting into a single trusted ecosystem.
 
-* Identity integrity[span_3](start_span)[span_3](end_span)
-* Financial accountability[span_4](start_span)[span_4](end_span)
-* Compliance automation[span_5](start_span)[span_5](end_span)
-* Evidence-based reporting[span_6](start_span)[span_6](end_span)
+---
 
-## Founder
-John Marshall Curry[span_7](start_span)[span_7](end_span)
+## Mission
+To empower creators, organizations, and communities with complete visibility, accountability, and trust through integrated operations, financial telemetry, and evidence-based governance.
+
+## Core Pillars
+* **Operations:** Project management, Documentation, Workflow oversight
+* **Identity Integrity:** Verification, Provenance, Trust records
+* **Compliance:** Open-source compliance, Policy management, Audit readiness
+* **Governance:** Accountability, Oversight, Evidence-based reporting
+
+---
+
+## Governance & Architecture Taxonomy (`/docs`)
+* `docs/Architecture/` — System topologies, microservices, and network flows
+* `docs/Compliance/` — SOC 2 matrices, access control policies, and audit logs
+* `docs/Financial-Controls/` — Double-entry ledger schemas and HMAC verification specs
+* `docs/Identity-Integrity-Reports/` — Telemetry verification and identity audit trails
+* `docs/SBOM/` — Software Bill of Materials and supply chain security logs
